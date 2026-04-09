@@ -1,49 +1,69 @@
-<img width="1584" height="396" alt="Shajjadul ferdous" src="https://github.com/user-attachments/assets/dff65779-26c7-4d1e-80d5-159b3f61ba21" />
-
 <h1 align="center">Hi 👋, I'm Shajjadul Ferdous</h1>
-<h3 align="center">💻 CSE Student | MERN Stack Learner | Competitive Programmer</h3>
+<h3 align="center">💻 Aspiring Software Engineer | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Problem+Solver;MERN+Stack+Learner;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Problem+Solver;MERN+Stack+Developer;Competitive+Programmer" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shajjadulferdous&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<hr/>
 
 ## 🧑‍💻 About Me
 
-- 🎓 CSE Student (3rd Year)
-- 🌱 Currently learning **React, Node.js, Backend Development**
-- 🧠 Love solving problems (DSA & Algorithms)
-- 🚀 Goal: Become a **Software Engineer**
+* 🎓 3rd Year CSE Student
+* 💻 MERN Stack Developer (React | Node.js | MongoDB)
+* 🧠 Strong foundation in Data Structures & Algorithms
+* 🚀 Passionate about building scalable and user-friendly web applications
+* 🎯 Goal: Become a Software Engineer and solve real-world problems
+
+<hr/>
+
+## 🚀 Featured Projects
+
+### 🛒 Digital Tools Buying Website
+
+* Interactive eCommerce UI built with React
+* Add to cart, remove items, and clear cart functionality
+* Clean and responsive UI using Tailwind CSS
+
+🔗 Repo: [https://github.com/react-basic](https://github.com/shajjadulferdous/React-Basic)
 
 ---
+
+<hr/>
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
 </p>
 
 ### 🌐 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
-### ⚙️ Tools & Backend
+### ⚙️ Backend & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+<hr/>
 
+## 🧠 Competitive Programming Profiles
 
-## 🧠 Competitive Programming
+* 🔗 Codeforces: https://codeforces.com/profile/Fer_dous
+* 🔗 LeetCode: https://leetcode.com/shajjadulferdous
+* 🔗 AtCoder: https://atcoder.jp/users/shajjadulferdous
 
-🔗 Codeforces: https://codeforces.com/profile/Fer_dous  
-🔗 LeetCode: https://leetcode.com/shajjadulferdous  
-🔗 AtCoder: https://atcoder.jp/users/shajjadulferdous  
-
----
+<hr/>
 
 ## 📊 GitHub Stats
 
@@ -60,6 +80,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajjadulferdous&theme=tokyo-night" />
 </p>
 
+<hr/>
 
 ## 📫 Connect With Me
 
@@ -72,7 +93,11 @@
   </a>
 </p>
 
----
+<hr/>
+
+## ⚡ Fun Fact
+
+* 🧩 I enjoy solving complex problems and turning ideas into real-world applications
 
 <p align="center">
   ⚡ <i>“Code. Learn. Improve. Repeat.”</i>
