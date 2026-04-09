@@ -1,12 +1,10 @@
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/b1b66c95-2f64-460e-931c-fa8745042b1a" />
+
 <h1 align="center">Hi 👋, I'm Shajjadul Ferdous</h1>
 <h3 align="center">💻 Aspiring Software Engineer | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Problem+Solver;MERN+Stack+Developer;Competitive+Programmer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shajjadulferdous&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <hr/>
