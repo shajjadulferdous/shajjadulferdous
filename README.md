@@ -29,6 +29,10 @@
 
 🔗 Repo: [https://github.com/react-basic](https://github.com/shajjadulferdous/React-Basic)
 
+### 🛒 Dynamic Web App with API Integration more details
+Created a dynamic web application using HTML, CSS, Tailwind CSS, and DaisyUI. The application fetches data from an external API and displays it in a clean and responsive UI. This project demonstrates skills in API integration, responsive design, and modern front-end development.
+🔗 netlify link : https://jocular-florentine-a591aa.netlify.app/
+
 ---
 
 <hr/>
