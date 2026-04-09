@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Shajjadul ferdous" src="https://github.com/user-attachments/assets/dff65779-26c7-4d1e-80d5-159b3f61ba21" />
+
 <h1 align="center">Hi 👋, I'm Shajjadul Ferdous</h1>
 <h3 align="center">💻 CSE Student | MERN Stack Learner | Competitive Programmer</h3>
 
@@ -58,15 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajjadulferdous&theme=tokyo-night" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajjadulferdous&theme=onedark" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
