@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/b1b66c95-2f64-460e-931c-fa8745042b1a" />
 <h1 align="center">Hi 👋, I'm Shajjadul Ferdous</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
