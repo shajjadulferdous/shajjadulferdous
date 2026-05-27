@@ -3,7 +3,7 @@
 <h3 align="center">💻 Aspiring Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Competitive+Programmer;Next.js+Developer;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 **Tech Stack:** Next.js 15, React 19, Tailwind CSS, DaisyUI, Better Auth, Express.js, MongoDB, Vercel, Render  
 
-- Architected a full-stack tutor booking platform enabling students to discover tutors, schedule sessions, and register themselves as tutors with role-based access control  
+- Architected a full-stack tutor booking platform enabling students to discover tutors, schedule sessions, and register themselves as tutors 
 - Implemented secure authentication using Better Auth with credential and OAuth login flows  
 - Built dynamic tutor profile pages with server-side rendering using Next.js App Router, improving SEO and performance  
 - Designed a fully responsive and modern UI optimized for mobile, tablet, and desktop devices  
